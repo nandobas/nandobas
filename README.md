@@ -1,19 +1,10 @@
 ### Nenhum dia sem uma linha 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<!--
-**nandobas/nandobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobas&theme=dark&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobas&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobas&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :globe_with_meridians: Atualmente estou trabalhando em Golang
+- 🌱 Estou trinando Domain Driven Design
+- 👯 Posso colaborar em projetos com VueJS, Javascript, Web Assembly, PHP, C, C++, Assembly
+- ⚡ Curiosidades: Músico por hobby, violão e teclado; Amante de filosofia; Noveleiro; 
